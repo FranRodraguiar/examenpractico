@@ -240,7 +240,7 @@ artigos>db.dropDatabase()
 
 use artigos
 
-artigos>load('funciones.js')
+artigos>load('funciones1.js')
 
 - Modifica o prezo do mouse 'LOGITECH M90'
 
